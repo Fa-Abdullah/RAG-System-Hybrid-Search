@@ -1,0 +1,11 @@
+pymupdf
+nltk
+tqdm
+sentence-transformers
+chromadb
+rank-bm25
+requests
+gradio
+langchain-text-splitters
+torch
+numpy
