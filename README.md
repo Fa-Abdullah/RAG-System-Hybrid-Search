@@ -61,14 +61,5 @@ The system retrieves the most relevant document sections using a hybrid search s
 * Internal company documentation assistants
 * Educational learning assistants
 
-## Security Considerations
 
-API credentials are not hardcoded within the project. Environment variables and secure secret management practices are used to protect sensitive information.
 
-## Author
-
-Fatma Abdullah
-
-AI Engineer | Machine Learning | NLP | Computer Vision
-
-GitHub: Fa-Abdullah
